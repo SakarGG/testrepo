@@ -1,2 +1,2 @@
 # testrepo
-$$ ADD OLD
+$$ ADD NEW $$
