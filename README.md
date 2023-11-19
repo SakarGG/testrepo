@@ -1,2 +1,2 @@
 # testrepo
-$$ ADD NEW $$
+@Added new
